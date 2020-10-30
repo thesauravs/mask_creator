@@ -1,5 +1,5 @@
 ipywidgets==7.5.1
 IPython==7.16.1
-cv2==4.4.0
+opencv-python==4.4.0
 numpy==1.18.5
 matplotlib==3.2.2
